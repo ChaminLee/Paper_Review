@@ -6,5 +6,8 @@
 
 ![](MNIST_dcgan.gif)
 
+
+
 < POKEMON DATASET >
+
 ![](pokemon_dcgan.gif)
