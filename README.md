@@ -7,6 +7,8 @@ Paper_Review for Deep Learning.
 
 https://leechamin.tistory.com/category/PROJECT/%EB%85%BC%EB%AC%B8%EC%9D%BD%EA%B8%B0
 
+코드는 아직 스스로 짜지못해서 타 코드를 분석하고 리뷰하고 있습니다.
+
 ## *< Be The First Penguin >*
 
 ![](https://tistory1.daumcdn.net/tistory/3013744/attach/c30b7f6cbbc54bd9b74f8bcec0d2300d)
